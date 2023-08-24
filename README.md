@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thriveni2019
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on moni projects 
+- 💞️ I’m looking to collaborate on mini projects 
 - 📫 How to reach me pondugulathriveni2004@gmail.com
 
 <!---
